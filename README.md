@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hello! 👋
 
 <!--
-**JeonHaYoon/JeonHaYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://img.shields.io/badge/{Git Hub}-{yellogreen}?style={for-the-badge,}&logo={Apple}&logoColor={00000}"/>
+
 
 Here are some ideas to get you started:
 
